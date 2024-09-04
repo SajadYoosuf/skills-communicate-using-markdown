@@ -9,3 +9,7 @@
 `````
 Stirng name="iam a crazy thinker like elon musk";
 `````
+- [x] added headers
+- [x] added an image
+- [x] added one line of code
+- [x] waiting next task   
